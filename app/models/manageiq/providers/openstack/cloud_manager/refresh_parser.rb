@@ -43,7 +43,7 @@ module ManageIQ::Providers
       load_orchestration_stacks
       get_security_groups
       get_networks
-      get_network_routers
+      # get_network_routers
       # get_hosts
       get_images
       get_servers
